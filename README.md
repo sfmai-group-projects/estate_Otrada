@@ -18,4 +18,5 @@
    ![photo_2023-12-19_20-22-00 (3)](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/6ae24ce3-82be-4eaa-bb5d-23928cde408e)
    ![photo_2023-12-19_20-22-00 (2)](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/c7fdb0b5-d420-4fff-8f75-99dc8985814d)
    ![photo_2023-12-19_20-22-00](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/958153ad-ba2a-4db2-aff0-954dc9a8d12e)
+   ![image](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/0c98602e-8846-4914-9790-dc95e2760c81)
 
