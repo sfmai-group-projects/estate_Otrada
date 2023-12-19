@@ -15,3 +15,7 @@
 3. Цель работы состояла в цифровой реставрации усадьбы Отрадное, село Семеновское.
 4. Для создания игры использовался игровой движок Unity, для моделирования - 3Dsmax + Corona Render, Blender.
 5. ![124324632324](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/24cb6fc0-e38a-44d3-9117-796999270248)
+   ![photo_2023-12-19_20-22-00 (3)](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/6ae24ce3-82be-4eaa-bb5d-23928cde408e)
+   ![photo_2023-12-19_20-22-00 (2)](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/c7fdb0b5-d420-4fff-8f75-99dc8985814d)
+   ![photo_2023-12-19_20-22-00](https://github.com/sfmai-group-projects/estate_Otrada/assets/112934350/958153ad-ba2a-4db2-aff0-954dc9a8d12e)
+
